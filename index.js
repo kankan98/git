@@ -1,1 +1,1 @@
-console.log("git1从git2分支用工具拉下代码在git1的命令行用命令提交");
+console.log("不用工具从github克隆代码然后在工具修改后用cmd提交");
